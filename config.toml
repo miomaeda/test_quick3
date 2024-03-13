@@ -1,4 +1,4 @@
-baseURL = 'https://testquick2.netlify.app/'
+baseURL = 'https://testquick2.netlify.app'
 languageCode = 'en-us'
 title = 'TEST QUICK3'
 theme = 'ananke'
